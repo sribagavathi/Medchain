@@ -279,15 +279,15 @@ export default function MedChainMVP() {
               </div>
             </div>
             <div className="text-center md:text-right">
-              <p className="text-lg font-semibold mb-1">Developed by Mavericks</p>
-              <p className="text-blue-100">Infosys Global Hackathon 2025</p>
+              <p className="text-lg font-semibold mb-1"></p>
+              <p className="text-blue-100"></p>
               <div className="mt-2 text-sm text-blue-200">
                 Securing Healthcare • Empowering Communities • Building Trust
               </div>
             </div>
           </div>
           <div className="border-t border-blue-300 mt-4 pt-4 text-center text-blue-100 text-sm">
-            © 2025 MedChain Mavericks. All rights reserved. | Blockchain-powered healthcare supply chain integrity.
+            © 2025 MedChain. All rights reserved. | Blockchain-powered healthcare supply chain integrity.
           </div>
         </div>
       </footer>

@@ -315,8 +315,8 @@ export default function LoginPage({ onLogin }: LoginPageProps) {
 
         {/* Footer */}
         <div className="text-center mt-8 text-white/80">
-          <p className="text-sm">Developed by Mavericks</p>
-          <p className="text-xs">Infosys Global Hackathon 2025</p>
+          <p className="text-sm"></p>
+          <p className="text-xs"></p>
         </div>
       </div>
     </div>

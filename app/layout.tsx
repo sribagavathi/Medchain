@@ -7,7 +7,7 @@ import Image from "next/image"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "MedChain Mavericks",
+  title: "MedChain",
   description: "Healthcare Supply Integrity Platform",
     generator: 'v0.dev'
 }
