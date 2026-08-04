@@ -1,5 +1,5 @@
 """
-MedChain - Hyperledger Fabric style Blockchain Simulator
+
 --------------------------------------------------------
 
 This lightweight simulator mimics two core Fabric concepts:
