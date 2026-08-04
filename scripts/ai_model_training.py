@@ -1,6 +1,6 @@
 """
 MedChain AI Model Training Script
-Trains machine learning models for demand forecasting and stock optimization
+Trains machine learning models for demand forecasting 
 """
 
 import numpy as np
