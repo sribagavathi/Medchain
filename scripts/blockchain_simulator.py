@@ -1,22 +1,3 @@
-"""
-
---------------------------------------------------------
-
-This lightweight simulator mimics two core Fabric concepts:
-
-1)  The **Blockchain** – an immutable, append-only chain of blocks.
-2)  The **World State** – a current key–value store (latest view).
-
-It supports basic drug-batch commands:
-    • createDrugBatch   (CREATE_BATCH)
-    • updateBatchStatus (UPDATE_STATUS)
-
-Both commands are written to the blockchain and reflected in
-`world_state`.
-
-Author: MedChain Mavericks - Infosys Global Hackathon 2025
-"""
-
 from __future__ import annotations
 
 import hashlib
